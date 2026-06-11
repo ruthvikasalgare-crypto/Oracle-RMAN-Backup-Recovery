@@ -1,7 +1,3 @@
-# Oracle-RMAN-Backup-Recovery
-Implemented enterprise backup and recovery strategy using Oracle RMAN.
-# Enterprise Backup & Recovery Management Using RMAN
-
 ## Overview
 Implemented enterprise backup and recovery strategy using Oracle RMAN.
 
